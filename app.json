@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu.",
+            "description": "Qr.Js ile QR scan cheythappo kittiya code.",
             "required": true
         },
         "SUDO": {
